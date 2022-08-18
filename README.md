@@ -1,9 +1,9 @@
 # OFNL-provider-comparison
-An overview table of [OFNL internet providers](https://www.ofnl.co.uk/) ranked by the available information and costs.
+An overview table of [Open Fibre Networks Limited (OFNL) internet providers](https://www.ofnl.co.uk/) ranked by the available information and costs.
 
 Originally created January 2021, uploaded to GitHub August 2022.
 
-*Disclaimer: This was a personally created list for my own needs with my own opinions added. Prices, services and so forth may have moved on since it's creation.*
+*Disclaimer: This was a personally created list for my own needs with my own opinions added. Prices, services and so forth may have moved on since it's creation. I went with Link Broadband and had good service for the entire 18 months I was with them.*
 
 |                                | Free router?                 | 120 Mbps Price | 120 up speed | 360 Mbps Price | 360 download speed | Connection charge | Contract length | Total (100 ) |
 |--------------------------------|------------------------------|----------------|--------------|----------------|--------------------|-------------------|-----------------|--------------|
