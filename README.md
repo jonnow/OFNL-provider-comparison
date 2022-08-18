@@ -3,7 +3,7 @@ An overview table of [OFNL internet providers](https://www.ofnl.co.uk/) ranked b
 
 Originally created January 2021, uploaded to GitHub August 2022.
 
-*Disclaimer: This was a personally created list for my own needs with my own opinions added. Prices, services and so forth may have moved on.
+*Disclaimer: This was a personally created list for my own needs with my own opinions added. Prices, services and so forth may have moved on since it's creation.*
 
 |                                | Free router?                 | 120 Mbps Price | 120 up speed | 360 Mbps Price | 360 download speed | Connection charge | Contract length | Total (100 ) |
 |--------------------------------|------------------------------|----------------|--------------|----------------|--------------------|-------------------|-----------------|--------------|
